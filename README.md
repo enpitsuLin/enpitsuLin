@@ -2,7 +2,9 @@
 
 ## Hi there 😁
 
-- 🔭 I’m currently working on  my own blog on [github page](https://enpitsulin.github.io/)
+I'm a Front-End Developer
+
+- 🔭 I’m currently working on  my own [blog](https://enpitsulin.github.io/)
 - 🌱 I’m currently learning modern front-end technology
 - 👯 I’m looking to collaborate on some simple open source project
 - 😄 Pronouns: enpitsu (which means pencil in japanese)
