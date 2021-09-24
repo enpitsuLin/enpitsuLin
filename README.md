@@ -8,4 +8,3 @@ I'm a Front-End Developer
 - 🌱 I’m currently learning modern front-end technology
 - 👯 I’m looking to collaborate on some simple open source project
 - 😄 Pronouns: enpitsu (which means pencil in japanese)
-- ⚡ Fun fact: `Furontoendo shoshinsha` in my description actually means `fornt-end starter` (and it just trans by Google)
