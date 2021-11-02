@@ -8,3 +8,7 @@ I'm a Front-End Developer
 - 🌱 I’m currently learning modern front-end technology
 - 👯 I’m looking to collaborate on some simple open source project
 - 😄 Pronouns: enpitsu (which means pencil in japanese)
+
+### Project
+
+- [gatsby-remark-shiki](https://github.com/enpitsuLin/gatsby-remark-shiki):Add syntax highlighting to gatsby by using [shiki](https://github.com/shikijs/shiki)
