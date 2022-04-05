@@ -4,7 +4,7 @@
 
 I'm a Front-End Developer
 
-- 🔭 I’m currently working on  my own [blog](https://enpitsulin.github.io/) which build with gatsby
+- 🔭 I’m currently working on  my own [blog](https://blog.enpitsulin.xyz/) which build with gatsby
 - 🌱 I’m currently learning modern front-end technology
 - 👯 I’m looking for some simple open source project which I will be able contribute to
 - 😄 Pronouns: enpitsu (which means pencil in japanese)
