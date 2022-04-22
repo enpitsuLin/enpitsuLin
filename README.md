@@ -2,7 +2,7 @@
 
 ## Hi there 😁
 
-I'm a Front-End Developer
+I'm a Chinese Front-End Developer ~~with a spirited maybe🤣~~,
 
 - 🔭 I’m currently working on  my own [blog](https:enpitsulin.xyz/) which build with nextjs
 - 🌱 I’m currently learning modern front-end technology
