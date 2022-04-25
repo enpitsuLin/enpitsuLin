@@ -7,7 +7,6 @@ I'm a Chinese Front-End Developer ~~with a spirited maybe🤣~~,
 - 🔭 I’m currently working on  my own [blog](https:enpitsulin.xyz/) which build with nextjs
 - 🌱 I’m currently learning modern front-end technology
 - 🔑 GPG key hosted here at [Github](https://github.com/enpitsulin.gpg) and also [Keybase](https://keybase.io/enpitsulin/pgp_keys.asc), see [Keybase proof](https://gist.github.com/enpitsuLin/9a76c29f2e58cd0fbe673e2f28dba360).
-- ⚡ TypeScript / JavaScript / Python. Next.js / Gatsby. React / Vue / Express.
 - 😄 Pronouns: enpitsu (which means pencil in japanese)
 
 ### Project:
