@@ -9,10 +9,6 @@ I'm a Chinese Front-End Developer ~~with a spirited maybe🤣~~,
 - 🔑 GPG key hosted here at [Github](https://github.com/enpitsulin.gpg) and also [Keybase](https://keybase.io/enpitsulin/pgp_keys.asc), see [Keybase proof](https://gist.github.com/enpitsuLin/9a76c29f2e58cd0fbe673e2f28dba360).
 - 😄 Pronouns: enpitsu (which means pencil in japanese)
 
-### Project:
-
-- [gatsby-remark-shiki](https://github.com/enpitsuLin/gatsby-remark-shiki): Add syntax highlighting to gatsby by using [shiki](https://github.com/shikijs/shiki)
-
 ### Languages and Tools
 
 <code><a href="https://github.com/topics/javascript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
