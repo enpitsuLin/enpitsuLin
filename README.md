@@ -17,4 +17,4 @@ I'm a Chinese Front-End Developer ~~with a spirited maybe🤣~~,
 <code><a href="https://github.com/topics/vue" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
 <code><a href="https://github.com/topics/react" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
 <code><a href="https://github.com/topics/vscode" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></a></code>
-<code><a href="https://github.com/topics/chrome" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></a></code>
+<code><a href="https://github.com/topics/edge" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/1f1d76edb46a3687b6aa23a97af184650181c459/topics/edge/edge.png"></a></code>
