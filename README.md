@@ -2,7 +2,7 @@
 
 ## Hi there 😁
 
-I'm a Chinese Front-End Developer ~~who has strong passion🤣~~,
+I'm a Chinese Front-End Developer ~~who maybe have strong passion🤣~~
 
 - 🔭 I’m built my own [blog](https://enpitsulin.xyz/) with [astro](https://github.com/withastro/astro)
 - 🌱 I’m currently learning modern front-end technology and blockchain tech ~~that once was rust which so difficult for me😢~~
